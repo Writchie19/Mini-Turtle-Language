@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 
 // PenDown rule, affects turtle by calling its penDown method

@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 // Constant rule, does not affect the turtle directly, is to be used by other rules to affect the turtle
 public class ASTConstant extends ASTExpression

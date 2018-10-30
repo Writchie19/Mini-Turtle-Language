@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 import java.io.BufferedReader;
 import java.io.File;

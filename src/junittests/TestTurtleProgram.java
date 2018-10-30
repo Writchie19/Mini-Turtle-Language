@@ -4,8 +4,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
-import assign3.*;
 
+import MiniTurtleLanguage.*;
 import junit.framework.TestCase;
 
 public class TestTurtleProgram extends TestCase
