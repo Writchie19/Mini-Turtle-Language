@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 // PenUp rule, affects the trutle by calling its penUp method
 public class ASTPenUp extends ASTExpression

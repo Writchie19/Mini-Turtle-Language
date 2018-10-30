@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 // Move rule, affects a turtle by calling its move method, using a constant or a variable's value at runtime as the input
 public class ASTMove extends ASTExpression

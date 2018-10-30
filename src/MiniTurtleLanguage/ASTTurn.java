@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 
 // Turn rule, affects a turtle by calling its turn method, using a constant or a variable's value at runtime as the input

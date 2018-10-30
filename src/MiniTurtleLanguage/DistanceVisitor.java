@@ -1,4 +1,4 @@
-package assign3;
+package MiniTurtleLanguage;
 
 public class DistanceVisitor extends Visitor
 {
